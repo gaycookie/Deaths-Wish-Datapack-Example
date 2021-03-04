@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [ "###", "#T#", "###" ],
+  "key": {
+    "#": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "T": {
+      "tag": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {}
+}
